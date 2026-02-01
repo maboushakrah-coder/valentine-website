@@ -1,7 +1,7 @@
 # 💝 Valentine's Day Website 2026 💝
 
 
-Try it now: https://github.com/k3v1nho/valentine-website
+Try it now: https://k3v1nho.github.io/valentine-website
 #ValentinesDay2026
 
 
